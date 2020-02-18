@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf916fc2-683b-48b5-adec-84501b60f017" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1XygSj9YtRmOaFj4qpdtJ0feNno" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/src/option" />
+      <recent name="$PROJECT_DIR$/src/Typeahead" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/Typeahead" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/src/option" />
+      <recent name="$PROJECT_DIR$/src/mock" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.Typeahead.markNeighbor">
+    <configuration name="ButtonCopy (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/option/index.test.js" />
+      <test-names>
+        <test-name value="ButtonCopy" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Option" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/test/option.test.js" />
+      <test-names>
+        <test-name value="Option" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Typeahead" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/test/typeahead.test.js" />
+      <test-names>
+        <test-name value="Typeahead" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Typeahead.markNeighbor" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/test/typeahead.test.js" />
+      <test-names>
+        <test-name value="Typeahead" />
+        <test-name value="markNeighbor" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Typeahead.onKeyUp" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/test/typeahead.test.js" />
+      <test-names>
+        <test-name value="Typeahead" />
+        <test-name value="onKeyUp" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Typeahead.markNeighbor" />
+        <item itemvalue="Jest.Typeahead.onKeyUp" />
+        <item itemvalue="Jest.Typeahead" />
+        <item itemvalue="Jest.Option" />
+        <item itemvalue="Jest.ButtonCopy (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf916fc2-683b-48b5-adec-84501b60f017" name="Default Changelist" comment="" />
+      <created>1582023749634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582023749634</updated>
+      <workItem from="1582023751204" duration="91000" />
+      <workItem from="1582023854880" duration="151000" />
+      <workItem from="1582024077129" duration="21537000" />
+      <workItem from="1582051668655" duration="158000" />
+      <workItem from="1582051875764" duration="7335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="215" width="800" height="684" key="#ESLint" timestamp="1582026696073">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="215" width="800" height="684" key="#ESLint/0.27.1920.1053@0.27.1920.1053" timestamp="1582026696073" />
+    <state x="555" y="215" width="800" height="684" key="#Inspections" timestamp="1582026701019">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="215" width="800" height="684" key="#Inspections/0.27.1920.1053@0.27.1920.1053" timestamp="1582026701019" />
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1582051824495">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1582051824495" />
+    <state width="1920" height="283" key="GridCell.Tab.0.bottom" timestamp="1582056851095">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1920" height="283" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1582056851095" />
+    <state width="1920" height="283" key="GridCell.Tab.0.center" timestamp="1582056851094">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1920" height="283" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1582056851094" />
+    <state width="1920" height="283" key="GridCell.Tab.0.left" timestamp="1582056851094">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1920" height="283" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1582056851094" />
+    <state width="1920" height="283" key="GridCell.Tab.0.right" timestamp="1582056851095">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1920" height="283" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1582056851095" />
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1582026889067">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1582026889067" />
+    <state x="617" y="280" width="685" height="546" key="find.popup" timestamp="1582056470156">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="617" y="280" width="685" height="546" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1582056470156" />
+  </component>
+</project>

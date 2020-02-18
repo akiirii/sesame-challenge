@@ -1,0 +1,39 @@
+{
+  "name": "sesame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production",
+    "lint": "eslint --cache --format codeframe --ext mjs,jsx,js src test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@csstools/normalize.css": "^10.1.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-highlight-words": "^0.16.0",
+    "react-hot-loader": "^4.12.19",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "@neutrinojs/airbnb": "^9.1.0",
+    "@neutrinojs/image-loader": "^9.1.0",
+    "@neutrinojs/jest": "^9.1.0",
+    "@neutrinojs/react": "^9.1.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0",
+    "neutrino": "^9.1.0",
+    "react-addons-test-utils": "^15.6.2",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
